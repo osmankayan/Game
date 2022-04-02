@@ -1,0 +1,10 @@
+C:\c# eğitim\NetFramework\zNetFramework.S19.D7.DinamikFormElemanları\bin\Debug\zNetFramework.S19.D7.DinamikFormElemanları.exe.config
+C:\c# eğitim\NetFramework\zNetFramework.S19.D7.DinamikFormElemanları\bin\Debug\zNetFramework.S19.D7.DinamikFormElemanları.exe
+C:\c# eğitim\NetFramework\zNetFramework.S19.D7.DinamikFormElemanları\bin\Debug\zNetFramework.S19.D7.DinamikFormElemanları.pdb
+C:\c# eğitim\NetFramework\zNetFramework.S19.D7.DinamikFormElemanları\obj\Debug\zNetFramework.S19.D7.DinamikFormElemanları.csprojAssemblyReference.cache
+C:\c# eğitim\NetFramework\zNetFramework.S19.D7.DinamikFormElemanları\obj\Debug\zNetFramework.S19.D7.DinamikFormElemanları.Form1.resources
+C:\c# eğitim\NetFramework\zNetFramework.S19.D7.DinamikFormElemanları\obj\Debug\zNetFramework.S19.D7.DinamikFormElemanları.Properties.Resources.resources
+C:\c# eğitim\NetFramework\zNetFramework.S19.D7.DinamikFormElemanları\obj\Debug\zNetFramework.S19.D7.DinamikFormElemanları.csproj.GenerateResource.cache
+C:\c# eğitim\NetFramework\zNetFramework.S19.D7.DinamikFormElemanları\obj\Debug\zNetFramework.S19.D7.DinamikFormElemanları.csproj.CoreCompileInputs.cache
+C:\c# eğitim\NetFramework\zNetFramework.S19.D7.DinamikFormElemanları\obj\Debug\zNetFramework.S19.D7.DinamikFormElemanları.exe
+C:\c# eğitim\NetFramework\zNetFramework.S19.D7.DinamikFormElemanları\obj\Debug\zNetFramework.S19.D7.DinamikFormElemanları.pdb
